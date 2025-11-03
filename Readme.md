@@ -41,6 +41,6 @@ TBD
 ## Reproduce my figures
 Use the following notebooks to reproduce the main and supplementary figures used in this publication.
 
-| Figure Numbers |                Script Name                 |                                  Description                                   | 
-|:--------------:|:------------------------------------------:|:------------------------------------------------------------------------------:|
-|       2        |        difference_calculation.ipynb        |             Shows how the mean and peak differences are calculated             |
+| Figure Numbers |                Script Name                 |                 Description                 | 
+|:--------------:|:------------------------------------------:|:-------------------------------------------:|
+|      TBD       |        plot_nerc_regions.ipynb        | Plots the TPL-08 Standard NERC regions |
