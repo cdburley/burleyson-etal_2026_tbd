@@ -1,6 +1,6 @@
 # Exploiting Diversity in Extreme Events for Assessing Grid Reliability
 
-Casey D. Burleyson<sup>1\*</sup>, Osten Anderson<sup>1</sup>, Heng Wan<sup>1</sup>, and Nathalie Voisin<sup>1,2</sup>
+Casey D. Burleyson<sup>1\*</sup>, Osten Anderson<sup>1</sup>, Cameron Bracken<sup>1</sup>, Heng Wan<sup>1</sup>, and Nathalie Voisin<sup>1,2</sup>
 
 <sup>1 </sup> Pacific Northwest National Laboratory, Richland, WA, USA  
 <sup>2 </sup> University of  Washington, Seattle, WA, USA  
