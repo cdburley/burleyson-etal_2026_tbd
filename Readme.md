@@ -1,4 +1,4 @@
-# Exploiting Diversity in Extreme Events for Assessing Grid Reliability
+# Exploiting Diversity in Extreme Weather Events for Assessing Grid Reliability
 
 Casey D. Burleyson<sup>1\*</sup>, Osten Anderson<sup>1</sup>, Cameron Bracken<sup>1</sup>, Heng Wan<sup>1</sup>, and Nathalie Voisin<sup>1,2</sup>
 
