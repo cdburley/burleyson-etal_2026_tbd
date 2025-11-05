@@ -1,0 +1,39 @@
+gridview_ba,number,short_name,long_name
+AVA,9,PNW,Pacific Northwest
+AZPS,13,SW,Southwest
+BANC,0,CA,California
+BPAT,9,PNW,Pacific Northwest
+CHPD,9,PNW,Pacific Northwest
+CIPB,0,CA,California
+CIPV,0,CA,California
+CISC,0,CA,California
+CISD,0,CA,California
+DOPD,9,PNW,Pacific Northwest
+EPE,13,SW,Southwest
+GCPD,9,PNW,Pacific Northwest
+IID,0,CA,California
+IPFE,3,GB,Great Basin
+IPMV,3,GB,Great Basin
+IPTV,3,GB,Great Basin
+LDWP,0,CA,California
+NEVP,3,GB,Great Basin
+NWMT,11,RM,Rocky Mountain
+PACW,9,PNW,Pacific Northwest
+PAID,3,GB,Great Basin
+PAUT,3,GB,Great Basin
+PAWY,11,RM,Rocky Mountain
+PGE,9,PNW,Pacific Northwest
+PNM,13,SW,Southwest
+PSCO,11,RM,Rocky Mountain
+PSEI,9,PNW,Pacific Northwest
+SCL,9,PNW,Pacific Northwest
+SPPC,3,GB,Great Basin
+SRP,13,SW,Southwest
+TEPC,13,SW,Southwest
+TIDC,0,CA,California
+TPWR,9,PNW,Pacific Northwest
+VEA,3,GB,Great Basin
+WACM,11,RM,Rocky Mountain
+WALC,13,SW,Southwest
+WAUW,11,RM,Rocky Mountain
+
