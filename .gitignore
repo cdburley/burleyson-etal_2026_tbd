@@ -5,6 +5,8 @@ data/state_shapefiles.zip
 data/state_shapefiles/
 data/NERC_TPL08_shapefiles.zip
 data/NERC_TPL08_shapefiles/
+data/wind_solar_data/
+data/load_data/
 
 # PyCharm
 .idea/
