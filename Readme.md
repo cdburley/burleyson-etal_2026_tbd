@@ -39,6 +39,6 @@ TBD
 ## Reproduce my figures
 Use the following notebooks to reproduce the main and supplementary figures used in this publication.
 
-| Figure Numbers |                Script Name                 |                 Description                 | 
-|:--------------:|:------------------------------------------:|:-------------------------------------------:|
-|      TBD       |        plot_nerc_regions.ipynb        | Plots the TPL-08 Standard NERC regions |
+| Figure Numbers |                Script Name                 |                Description                | 
+|:--------------:|:------------------------------------------:|:-----------------------------------------:|
+|       1        |        plot_nerc_regions.ipynb        | Plots the TPL-008-1 Standard NERC regions |
