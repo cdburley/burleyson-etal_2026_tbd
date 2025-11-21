@@ -42,6 +42,7 @@ TBD
 ## Reproduce my figures
 Use the following notebooks to reproduce the main and supplementary figures used in this publication.
 
-| Figure Numbers |                Script Name                 |                Description                | 
-|:--------------:|:------------------------------------------:|:-----------------------------------------:|
-|       1        |        plot_nerc_regions.ipynb        | Plots the TPL-008-1 Standard NERC regions |
+| Figure Numbers |           Script Name            |                  Description                  | 
+|:--------------:|:--------------------------------:|:---------------------------------------------:|
+|       1        |     plot_nerc_regions.ipynb      |   Plots the TPL-008-1 Standard NERC regions   |
+|     2,3,4      | plot_hw_cs_characteristics.ipynb | Plots heat wave and cold snap characteristics |
