@@ -1,5 +1,5 @@
 # NERC TPL-008-1 Region Analyses
-This page contains, to the extent possible, versions of all figures in the paper but for all 16 NERC TPL-008-1 weather 
+This page contains, to the extent possible, versions of all figures in the paper but for all 15 NERC TPL-008-1 weather 
 regions in the continental United States.
 >
 | Short Name |                    Long Name                     |                           Heat Wave Events                           |                           Cold Snap Events                           |
