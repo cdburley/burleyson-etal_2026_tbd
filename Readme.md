@@ -32,9 +32,12 @@ The post-processed files (resulting from the analysis scripts itemized below) ar
 ## Reproduce my experiment
 TBD
 
-|                Script Name                 |                                Description                                 |
-|:------------------------------------------:|:--------------------------------------------------------------------------:|
-|        tell_runs_exp_group_b.ipynb         | Runs the TELL model based on the GCAM-USA outputs and TGW weather forcing  |
+|                Script Name                 |                                         Description                                         |
+|:------------------------------------------:|:-------------------------------------------------------------------------------------------:|
+| process_aggregate_gridview_load_data.ipynb | Aggregates output from the TELL model from the BA-level to the NERC TPL-008-1 region level. |
+|       process_wind_solar_data.ipynb        |                 Formats the hourly wind and solar data into a single file.                  |
+|       process_hw_cs_libraries.ipynb        |  Cleans up the raw thermal events library and adds information about loads and generation.  |
+
 
 ## Reproduce my figures
 Use the following notebooks to reproduce the main and supplementary figures used in this publication.

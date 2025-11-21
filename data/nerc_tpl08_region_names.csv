@@ -1,0 +1,17 @@
+number,short_name,long_name
+1,CA,California
+2,ERCOT,Electric Reliability Council of Texas
+3,FL,Florida
+4,GB,Great Basin
+5,ISONE,Independent System Operator of New England
+6,MISO-N,Midcontinent Independent System Operator - North
+7,MISO-S,Midcontinent Independent System Operator - South
+8,MT,Maritimes
+9,NYISO,New York Independent System Operator
+10,PJM,PJM Interconnection
+11,PNW,Pacific Northwest
+12,RM,Rocky Mountains
+13,SERC,SERC Reliability Corporation
+14,SPP-N,Southwest Power Pool - North
+15,SPP-S,Southwest Power Pool - South
+16,SW,Southwest
