@@ -2,9 +2,9 @@
 This page contains, to the extent possible, versions of all figures in the paper but for all 16 NERC TPL-008-1 weather 
 regions in the continental United States.
 >
-| Short Name |                    Long Name                     |                         Heat Wave Events                         |
-|:----------:|:------------------------------------------------:|:----------------------------------------------------------------:|
-|     CA     |                    California                    | <img src="figures/regional_results/CA_HW_Events.png" width="50"> |
+| Short Name |                    Long Name                     |                         Heat Wave Events                         |                         Cold Snap Events                         |
+|:----------:|:------------------------------------------------:|:----------------------------------------------------------------:|:----------------------------------------------------------------:|
+|     CA     |                    California                    | <img src="figures/regional_results/CA_HW_Events.png" width="50"> | <img src="figures/regional_results/CA_CS_Events.png" width="50"> |
 |   ERCOT    |      Electric Reliability Council of Texas       |              <img src="figures/TBD.png" width="50">              |
 |     FL     |                     Florida                      |              <img src="figures/TBD.png" width="50">              |
 |     GB     |                   Great Basin                    |              <img src="figures/TBD.png" width="50">              |
