@@ -37,6 +37,7 @@ TBD
 | process_aggregate_gridview_load_data.ipynb | Aggregates output from the TELL model from the BA-level to the NERC TPL-008-1 region level. |
 |       process_wind_solar_data.ipynb        |                 Formats the hourly wind and solar data into a single file.                  |
 |       process_hw_cs_libraries.ipynb        |  Cleans up the raw thermal events library and adds information about loads and generation.  |
+|       process_temperature_data.ipynb       |      Cleans up the raw time series of daily temperature in each NERC TPL-008-1 region.      |
 
 
 ## Reproduce my figures

@@ -8,6 +8,7 @@ data/NERC_TPL08_shapefiles/
 data/wind_solar_data/
 data/load_data/
 data/thermal_events_data
+data/temperature_data
 
 # PyCharm
 .idea/
