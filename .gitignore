@@ -7,9 +7,10 @@ data/NERC_TPL08_shapefiles.zip
 data/NERC_TPL08_shapefiles/
 data/wind_solar_data/
 data/load_data/
-data/thermal_events_data
-data/temperature_data
-data/gridview_results
+data/thermal_events_data/
+data/temperature_data/
+data/gridview_data/
+data/integrated_time_series/
 
 # PyCharm
 .idea/
