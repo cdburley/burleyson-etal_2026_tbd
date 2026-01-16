@@ -41,7 +41,9 @@ TBD
 ## Reproduce my figures
 Use the following notebooks to reproduce the main and supplementary figures used in this publication.
 
-| Figure Numbers |           Script Name            |                  Description                  | 
-|:--------------:|:--------------------------------:|:---------------------------------------------:|
-|       1        |     plot_nerc_regions.ipynb      |   Plots the TPL-008-1 Standard NERC regions   |
-|     2,3,4      | plot_hw_cs_characteristics.ipynb | Plots heat wave and cold snap characteristics |
+| Figure Numbers |           Script Name            |                               Description                               | 
+|:--------------:|:--------------------------------:|:-----------------------------------------------------------------------:|
+|       1        |     plot_nerc_regions.ipynb      |                Plots the TPL-008-1 Standard NERC regions                |
+|      TBD       | plot_hw_cs_characteristics.ipynb |              Plots heat wave and cold snap characteristics              |
+|      TBD       |   plot_annual_generation.ipynb   | Plots the distributinon of demand and generation by type for each month |
+|      TBD       |     plot_case_studies.ipynb      |  Plots key stress metrics and the generation mix for the case studies   |
