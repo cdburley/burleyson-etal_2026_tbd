@@ -30,16 +30,18 @@ The post-processed files (resulting from the analysis scripts itemized below) ar
 |   TBD   |       TBD       | TBD |
 
 ## Reproduce my experiment
-TBD
+The following scripts pre-process the data in preparation for the analysis notebooks. They assume that you have the output
+from the heat wave and cold snap identification scripts as well as the GridView simulations downloaded locally. Those files 
+can be downloaded from the "Input Data" links listed above.
 
-|                Script Name                 |                                               Description                                                |
-|:------------------------------------------:|:--------------------------------------------------------------------------------------------------------:|
-|       process_temperature_data.ipynb       |            Cleans up the raw time series of daily temperature in each NERC TPL-008-1 region.             |
-|   process_integrated_time_series.ipynb     | Aggregates the temperature, load, and generation data into a single file in each NERC TPL-008-1 region.  |
-|       process_hw_cs_libraries.ipynb        |        Cleans up the raw thermal events library and adds information about loads and generation.         |
+|                Script Name                 |                                                 Description                                                 |
+|:------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
+|       process_temperature_data.ipynb       |              Cleans up the raw time series of daily temperature in each NERC TPL-008-1 region.              |
+|   process_integrated_time_series.ipynb     |  Aggregates the temperature, load, and generation data into a single file for each NERC TPL-008-1 region.   |
+|       process_hw_cs_libraries.ipynb        | Cleans up the raw thermal events library and adds information about loads and generation during each event. |
 
 ## Reproduce my figures
-Use the following notebooks to reproduce the main and supplementary figures used in this publication.
+Use the following notebooks to run the analysis and reproduce the main and supplementary figures used in this publication.
 
 | Figure Numbers |           Script Name            |                               Description                               | 
 |:--------------:|:--------------------------------:|:-----------------------------------------------------------------------:|
