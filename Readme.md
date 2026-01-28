@@ -31,7 +31,7 @@ The post-processed files (resulting from the analysis scripts itemized below) ar
 
 ## Reproduce my experiment
 The following scripts pre-process the data in preparation for the analysis notebooks. They assume that you have the output
-from the heat wave and cold snap identification scripts as well as the GridView simulations downloaded locally. Those files 
+from the heat wave and cold snap identification workflow as well as the GridView simulations stored locally. Those files 
 can be downloaded from the "Input Data" links listed above.
 
 |                Script Name                 |                                                 Description                                                 |
