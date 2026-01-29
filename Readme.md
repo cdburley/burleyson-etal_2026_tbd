@@ -41,7 +41,7 @@ can be downloaded from the "Input Data" links listed above.
 |       process_hw_cs_libraries.ipynb        | Cleans up the raw thermal events library and adds information about loads and generation during each event. |
  
 ## Reproduce my figures
-Use the following notebooks to run the analysis and reproduce the main and supplementary figures used in this publication.
+Use the following notebooks to run the analyses and reproduce the main and supplementary figures used in this publication.
 
 | Figure Numbers |            Script Name            |                               Description                               | 
 |:--------------:|:---------------------------------:|:-----------------------------------------------------------------------:|
