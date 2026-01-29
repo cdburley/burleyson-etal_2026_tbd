@@ -11,6 +11,7 @@ data/thermal_events_data/
 data/temperature_data/
 data/gridview_data/
 data/gridview_data_old/
+data/old/
 data/integrated_time_series/
 
 # PyCharm
