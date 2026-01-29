@@ -39,13 +39,14 @@ can be downloaded from the "Input Data" links listed above.
 |       process_temperature_data.ipynb       |              Cleans up the raw time series of daily temperature in each NERC TPL-008-1 region.              |
 |   process_integrated_time_series.ipynb     |  Aggregates the temperature, load, and generation data into a single file for each NERC TPL-008-1 region.   |
 |       process_hw_cs_libraries.ipynb        | Cleans up the raw thermal events library and adds information about loads and generation during each event. |
-
+ 
 ## Reproduce my figures
 Use the following notebooks to run the analysis and reproduce the main and supplementary figures used in this publication.
 
-| Figure Numbers |           Script Name            |                               Description                               | 
-|:--------------:|:--------------------------------:|:-----------------------------------------------------------------------:|
-|       1        |     plot_nerc_regions.ipynb      |                Plots the TPL-008-1 Standard NERC regions                |
-|      TBD       | plot_hw_cs_characteristics.ipynb |              Plots heat wave and cold snap characteristics              |
-|      TBD       |   plot_annual_generation.ipynb   | Plots the distributinon of demand and generation by type for each month |
-|      TBD       |     plot_case_studies.ipynb      |  Plots key stress metrics and the generation mix for the case studies   |
+| Figure Numbers |            Script Name            |                               Description                               | 
+|:--------------:|:---------------------------------:|:-----------------------------------------------------------------------:|
+|       1        |      plot_nerc_regions.ipynb      |                Plots the TPL-008-1 Standard NERC regions                |
+|      TBD       | plot_hw_cs_characteristics.ipynb  |              Plots heat wave and cold snap characteristics              |
+|      TBD       |   plot_annual_generation.ipynb    | Plots the distributinon of demand and generation by type for each month |
+|      TBD       |      plot_case_studies.ipynb      |  Plots key stress metrics and the generation mix for the case studies   |
+|      TBD       | plot_event_temperature_maps.ipynb |      Plots maps of the event maximum temperature for a given event      |
