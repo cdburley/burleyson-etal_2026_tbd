@@ -1,7 +1,7 @@
 # Case Studies
 This page contains background plots that provide context for each of the three case studies presented in the paper.      
 >
-|   Case Study    |  Label  |   Focus Region    |                              Max Temperature Map                              |                       Temperature-Load Time Series                        |
+|   Case Study    |  Label  |   Focus Region    |                            Maximum Temperature Map                            |                         Grid Response Time Series                         |
 |:---------------:|:-------:|:-----------------:|:-----------------------------------------------------------------------------:|:-------------------------------------------------------------------------:|
 | Seasonal Timing | ST1-CA  |    California     | <img src="figures/case_study_results/ST1-CA_Temperature_Map.png" width="50">  | <img src="figures/case_study_results/ST1-CA_Time_Series.png" width="50">  |
 | Seasonal Timing | ST2-CA  |    California     | <img src="figures/case_study_results/ST2-CA_Temperature_Map.png" width="50">  | <img src="figures/case_study_results/ST2-CA_Time_Series.png" width="50">  |
