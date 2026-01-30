@@ -50,3 +50,4 @@ Use the following notebooks to run the analyses and reproduce the main and suppl
 |      TBD       |   plot_annual_generation.ipynb    | Plots the distributinon of demand and generation by type for each month |
 |      TBD       |      plot_case_studies.ipynb      |  Plots key stress metrics and the generation mix for the case studies   |
 |      TBD       | plot_event_temperature_maps.ipynb |      Plots maps of the event maximum temperature for a given event      |
+|      TBD       |   plot_event_time_series.ipynb    |        Plots time series of the grid response for a given event         |
