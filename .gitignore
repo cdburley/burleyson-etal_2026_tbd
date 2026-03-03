@@ -13,6 +13,7 @@ data/gridview_data/
 data/gridview_data_old/
 data/old/
 data/integrated_time_series/
+notebooks/plot_load_time_series.ipynb
 
 # PyCharm
 .idea/

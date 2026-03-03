@@ -28,7 +28,8 @@ Burleyson, C.D., O. Anderson, C. Bracken, H. Wan, and N. Voisin (2026). Characte
 events for assessing grid reliability. Submitted to *Applied Energy* - March 2026.
 
 ## Code reference
-TBD
+Burleyson, C.D., O. Anderson, C. Bracken, H. Wan, and N. Voisin (2026). Supporting code for Burleyson et al. 2026 - 
+Applied Energy [Code]. Zenodo. DOI TBD.
 
 ## Data references
 ### Input data
@@ -60,8 +61,9 @@ Use the following notebooks to run the analyses and reproduce the main and suppl
 | Figure Numbers |            Script Name            |                               Description                               | 
 |:--------------:|:---------------------------------:|:-----------------------------------------------------------------------:|
 |       1        |      plot_nerc_regions.ipynb      |                Plots the TPL-008-1 Standard NERC regions                |
-|      TBD       | plot_hw_cs_characteristics.ipynb  |              Plots heat wave and cold snap characteristics              |
-|      TBD       |   plot_annual_generation.ipynb    | Plots the distributinon of demand and generation by type for each month |
-|      TBD       |      plot_case_studies.ipynb      |  Plots key stress metrics and the generation mix for the case studies   |
-|      TBD       | plot_event_temperature_maps.ipynb |      Plots maps of the event maximum temperature for a given event      |
-|      TBD       |   plot_event_time_series.ipynb    |        Plots time series of the grid response for a given event         |
+|    2,3,4,5     | plot_hw_cs_characteristics.ipynb  |              Plots heat wave and cold snap characteristics              |
+|      6,9       |   plot_annual_generation.ipynb    | Plots the distributinon of demand and generation by type for each month |
+|       7        |      plot_case_studies.ipynb      |  Plots key stress metrics and the generation mix for the case studies   |
+|       8        | plot_event_temperature_maps.ipynb |      Plots maps of the event maximum temperature for a given event      |
+|       SI       |   plot_event_time_series.ipynb    |        Plots time series of the grid response for a given event         |
+|       SI       |   plot_hw_cs_correlations.ipynb   |  Plots correlation between variables for all heat waves or cold snaps   |
