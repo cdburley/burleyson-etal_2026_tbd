@@ -1,4 +1,4 @@
-# Exploiting Diversity in Extreme Weather Events for Assessing Grid Reliability
+# Characterizing Diversity in Extreme Weather Events for Assessing Grid Reliability
 
 Casey D. Burleyson<sup>1\*</sup>, Osten Anderson<sup>1</sup>, Cameron Bracken<sup>1</sup>, Heng Wan<sup>1</sup>, and Nathalie Voisin<sup>1,2</sup>
 
@@ -8,10 +8,24 @@ Casey D. Burleyson<sup>1\*</sup>, Osten Anderson<sup>1</sup>, Cameron Bracken<su
 \* corresponding author: casey.burleyson@pnnl.gov
 
 ## Abstract
-TBD
+Extreme weather events such as heat waves and cold snaps stress electric grids. Reliability assurance practices 
+increasingly call for the utilization of historical events to “stress test” existing or projected infrastructure to 
+demonstrate reliability or to evaluate the financial feasibility of proposed grid enhancements. To inform those studies 
+we constructed regional libraries of heat waves and cold snaps across 15 NERC subregions in the United States (U.S.) 
+and translated those events onto a projection of the grid in the western U.S. using the 2032 Anchor Dataset formulated 
+by the U.S. Western Electricity Coordinating Council. We use illustrative examples to demonstrate that the electric 
+grid in the western U.S. responds to heat waves and cold snaps in diverse ways. Commonly used methods for ranking 
+events by temperature or regional load during the event do not translate to high rankings for other stress metrics such 
+as the dependence on imported power. Three case studies demonstrate that events with similar regional temperatures and 
+peak loads can produce fundamentally different operational outcomes depending on seasonal renewable resource 
+availability, spatial extent, and event duration. This paper demonstrates how planners can make use of the broad 
+spectrum of historical thermal events to evaluate grid reliability more holistically. Strategically selecting diverse 
+events enables more robust assessments of transmission needs, storage operations, and resource adequacy to support 
+reliability assurance studies and inform emerging regulatory requirements.
 
 ## Journal reference
-TBD
+Burleyson, C.D., O. Anderson, C. Bracken, H. Wan, and N. Voisin (2026). Characterizing diversity in extreme weather 
+events for assessing grid reliability. Submitted to *Applied Energy* - March 2026.
 
 ## Code reference
 TBD
