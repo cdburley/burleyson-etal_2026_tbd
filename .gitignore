@@ -1,18 +1,13 @@
 # Directories
-data/county_shapefiles.zip
 data/county_shapefiles/
-data/state_shapefiles.zip
 data/state_shapefiles/
-data/NERC_TPL08_shapefiles.zip
 data/NERC_TPL08_shapefiles/
-data/wind_solar_data/
-data/load_data/
 data/thermal_events_data/
 data/temperature_data/
 data/gridview_data/
-data/gridview_data_old/
-data/old/
 data/integrated_time_series/
+
+# Files
 notebooks/plot_load_time_series.ipynb
 
 # PyCharm
