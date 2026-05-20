@@ -6,7 +6,7 @@ data/thermal_events_data/
 data/temperature_data/
 data/gridview_data/
 data/integrated_time_series/
-data/
+data/nerc_tpl08_region_names.csv
 
 # Files
 notebooks/plot_load_time_series.ipynb
