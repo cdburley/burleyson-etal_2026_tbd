@@ -8,7 +8,7 @@ Casey D. Burleyson<sup>1\*</sup>, Nathalie Voisin<sup>1,2</sup>, Osten Anderson<
 \* corresponding author: casey.burleyson@pnnl.gov
 
 ## Abstract
-Extreme weather events such as heat waves and cold snaps stress electric grids. Reliability assurance practices 
+EExtreme weather events such as heat waves and cold snaps stress electric grids. Reliability assurance practices 
 increasingly call for the utilization of historical events to “stress test” existing or projected infrastructure to 
 demonstrate reliability or to evaluate the financial feasibility of proposed grid enhancements. There is, however, a 
 lack of guidance on how to select those events. To inform those studies, we develop a benchmark of western United 
@@ -26,29 +26,23 @@ for different planning applications and to inform emerging regulatory requiremen
 
 ## Journal reference
 Burleyson, C.D., N. Voisin, O. Anderson, H. Wan, and C. Bracken (2026). Characterizing diversity in heat wave and cold
-snap responses for assessing grid reliability. Submitted to *Applied Energy* - March 2026.
+snap responses for assessing grid reliability. Submitted to *Applied Energy* - May 2026.
 
 ## Code reference
 Burleyson, C.D., N. Voisin, O. Anderson, H. Wan, and C. Bracken (2026). Supporting code for Burleyson et al. 2026 - 
 Applied Energy [Code]. Zenodo. DOI TBD.
 
 ## Data references
-### Input data
+### Input and output data
+The data needed to reproduce this analysis is stored in the public data repository linked below.
 | Dataset | Repository Link | DOI |
 |:-------:|:---------------:|:---:|
-|   TBD   |       TBD       | TBD |
-
-### Output data
-The post-processed files (resulting from the analysis scripts itemized below) are stored in the /data directory in this meta-repository.
-
-| Dataset | Repository Link | DOI |
-|:-------:|:---------------:|:---:|
-|   TBD   |       TBD       | TBD |
+| Supporting data for Burleyson et al. 2026 - Applied Energy | https://zenodo.org/records/20313919 | https://doi.org/10.5281/zenodo.20313919 |
 
 ## Reproduce my experiment
 The following scripts pre-process the data in preparation for the analysis notebooks. They assume that you have the output
 from the heat wave and cold snap identification workflow as well as the GridView simulations stored locally. Those files 
-can be downloaded from the "Input Data" links listed above.
+can be downloaded from the "Input and output Data" links listed above.
 
 |                Script Name                 |                                                 Description                                                 |
 |:------------------------------------------:|:-----------------------------------------------------------------------------------------------------------:|
